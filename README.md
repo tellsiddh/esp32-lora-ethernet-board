@@ -1,6 +1,6 @@
 # Custom LoRa and Ethernet Communication Board
 
-> :warning: **Notice**: This repository is in the process of being updated. The complete project content, including source code, schematics, and documentation, will be uploaded soon. Stay tuned for updates!
+:warning: **Notice**: This repository is in the process of being updated. The complete project content, including source code, schematics, and documentation, will be uploaded soon. Stay tuned for updates!
 
 ## Overview
 
