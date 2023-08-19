@@ -1,5 +1,7 @@
 # Custom LoRa and Ethernet Communication Board
 
+> :warning: **Notice**: This repository is in the process of being updated. The complete project content, including source code, schematics, and documentation, will be uploaded soon. Stay tuned for updates!
+
 ## Overview
 
 This repository contains the design, implementation, and firmware for a custom communication board using the ESP32 chip. The board integrates both LoRa (RFM95W) and Ethernet (LAN8720) capabilities, providing a versatile and robust communication solution for IoT applications.
